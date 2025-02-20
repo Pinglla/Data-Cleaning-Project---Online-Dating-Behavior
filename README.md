@@ -13,4 +13,5 @@ However, after cleaning the data, significant limitations were identified. The d
 ## Data Source
 Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-dating-matches-dataset/data
 
-![Dashboard 1](https://public.tableau.com/app/profile/pin.hsuan7475/viz/FactorsthatAffecttheNumberofMatchesinaDatingApp/Dashboard1)
+## Dashboard
+Tableau: https://public.tableau.com/app/profile/pin.hsuan7475/viz/FactorsthatAffecttheNumberofMatchesinaDatingApp/Dashboard1
